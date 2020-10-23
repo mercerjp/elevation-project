@@ -4,4 +4,4 @@ There are some areas where I had to use Microsoft Excel (don't tell anyone!) and
 It's pretty scrappy as I wasn't planning on making it publishable put I've spent some time trying to make it fairly reproducible. Some of the libraries I called on are not used later in the script because it was when I was experimenting with handling the data. 
 As of posting this repository (23/10/2020), I am much more efficient and cleaner at coding in R due to lots of practice.
 
-I'm posting this as a reference for future environmental students and also to show off my work so don't plaigrise me.
+I'm posting this as a reference for future environmental students and also to show off my work so don't plagiarise me.
